@@ -1,6 +1,7 @@
 .DS_store
 starter/
 data/
+module/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
